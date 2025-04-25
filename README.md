@@ -53,14 +53,3 @@ make
 ```
 ./main
 ```
-
-
-
-
-
-
-From Linux/Unix terminal within the project directory:
-
-    $ make
-    $ ./main
-
