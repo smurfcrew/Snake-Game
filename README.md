@@ -1,4 +1,4 @@
-# Snake In The Grass
+# Snake Game
 
 ![Snake Game](./assets/ex_image.png)
 
